@@ -12,6 +12,7 @@ Group:		Development/Python
 BuildRequires:	python-devel
 BuildRequires:	python-cython
 BuildRequires:	python-sphinx
+BuildRequires:	python-ply
 BuildRequires:	libelf-devel
 
 %description
