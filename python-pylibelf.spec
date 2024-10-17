@@ -6,7 +6,7 @@ Version:	0.1
 Release:	1
 Summary:	An ELF parser for python that uses the libelf library
 Source0:	http://eggy.yolky.org/pylibelf/static/docs/_downloads/pylibelf-full.tar.bz2
-Url:		http://eggy.yolky.org/pylibelf/
+Url:		https://eggy.yolky.org/pylibelf/
 License:	LGPLv2
 Group:		Development/Python
 BuildRequires:	python-devel
